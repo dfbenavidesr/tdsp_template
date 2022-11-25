@@ -1,4 +1,5 @@
 # Team Data Science Project Template
+## Fine-tuning in the model _"distilbert-base-uncased"_
 
 This template is an implementation of the Microsoft's Team Data Science Project Template that is currently used at the "Programa de Formación en Machine Learning and Data Science" at Universidad Nacional de Colombia.
 
